@@ -14,7 +14,7 @@ In an attention economy, the focus is on maximizing the use of scarce resources.
 
 Crypto or let's say DeFi as an economy has been known to evolve at a rapid pace. Everyday you are faced with hundreds of substacks, tens of whitepapers and a significant amount of updates from existing protocols.
 
-To stay updated one is continually required to process the information presented, manage the learning environment or the materials being used, and learn or remember the task at hand. This can add significant cognitive load. And in turn, it can lead to poorer performance on tasks. When designing learning experiences or work environments, it is important to consider how best to minimize the cognitive load associated with accessing information. This may include providing clear and concise instructions, organizing materials in an easily searchable way, and chunking information into manageable pieces.
+To stay updated, one is continually required to process the information presented, manage the learning environment or the materials being used, and learn or remember the task at hand. This can add significant cognitive load. And in turn, it can lead to poorer performance on tasks. When designing learning experiences or work environments, it is important to consider how best to minimize the cognitive load associated with accessing information. This may include providing clear and concise instructions, organizing materials in an easily searchable way, and chunking information into manageable pieces.
 
 ![image](https://user-images.githubusercontent.com/101138966/171533234-ce4a6482-3eb7-4ac6-a3ad-1e2c10b9f449.png)
 
