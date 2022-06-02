@@ -4,7 +4,7 @@
 
 ### OBJECTIVE
 
-To make a language generation bot which is able to process as well as answer complex queries on various aspects of DeFi.
+To make DeFi easier for builders. We aim to achieve this by creating a language generation bot which could process as well as answer their complex queries on various aspects of DeFi.
 
 ### PROBLEM STATEMENT
 
