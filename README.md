@@ -1,4 +1,4 @@
-# DeFi-Bots
+# DeFi-Bots (WIP)
 
 ## INTERACTIVE BOT BASED ON GPT-3
 
