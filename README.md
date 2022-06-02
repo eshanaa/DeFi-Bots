@@ -18,10 +18,10 @@ To stay updated one is continually required to process the information presented
 
 ![image](https://user-images.githubusercontent.com/101138966/171533234-ce4a6482-3eb7-4ac6-a3ad-1e2c10b9f449.png)
 
-GPT3 can answer complex questions by understanding the natural language used to ask the question, and then retrieving relevant information from a knowledge base. It can also generate an answer by reasoning from first principles, or by using heuristics.
-
 
 ### UNDERSTANDING GPT-3
+
+GPT3 can answer complex questions by understanding the natural language used to ask the question, and then retrieving relevant information from a knowledge base. It can also generate an answer by reasoning from first principles, or by using heuristics.
 
 ### METHODOLOGY
 
