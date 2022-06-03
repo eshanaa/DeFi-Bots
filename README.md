@@ -8,7 +8,7 @@
 
 To make DeFi easier for builders. We aim to achieve this by creating a language generation bot which could process as well as answer their complex queries on various aspects of DeFi.
 
-### PROBLEM STATEMENT
+### PROBLEM STATEMENT (WIP)
 
 There are distractions everywhere you look. It's hard to focus on anything for more than a few minutes without something pulling your attention away. Even if you're not looking for distractions, they seem to find you. And it's only getting worse with the rise of the attention economy. The attention economy is the idea that our attention is a valuable commodity that can be bought and sold. The more attention you can get, the more money you can make. This has led to a lot of businesses and individuals trying to find ways to get our attention.
 
