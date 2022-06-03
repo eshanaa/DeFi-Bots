@@ -8,6 +8,8 @@ To make DeFi easier for builders. We aim to achieve this by creating a language 
 
 ### PROBLEM STATEMENT
 
+There are distractions everywhere you look. It's hard to focus on anything for more than a few minutes without something pulling your attention away. Even if you're not looking for distractions, they seem to find you. And it's only getting worse with the rise of the attention economy. The attention economy is the idea that our attention is a valuable commodity that can be bought and sold. The more attention you can get, the more money you can make. This has led to a lot of businesses and individuals trying to find ways to get our attention.
+
 ![image](https://user-images.githubusercontent.com/101138966/171532466-076b3491-4d92-4b74-9158-06587902a19b.png)
 
 In an attention economy, the focus is on maximizing the use of scarce resources. In other words, it is all about making sure that people are using their time and energy in the most efficient way possible. This usually means creating incentives for people to use their time and energy in ways that are beneficial to the economy as a whole. One of the key ideas behind an attention economy is that people are more likely to pay attention to things that they find interesting or valuable. This means that businesses and other organizations need to create content and experiences that are interesting and valuable enough to capture people's attention. Another key idea is that people have a limited amount of attention to give. This means that businesses need to compete for people's attention and make sure that they are providing something worth paying attention to.
