@@ -1,7 +1,5 @@
 # DeFi-Bots (WIP)
 
-> This material has been written with the help of GPT-3, and has been edited for relavancy and length. Hence, it might be possible to find traces of plagiarism.
-
 ## INTERACTIVE BOT BASED ON GPT-3
 
 ### OBJECTIVE
@@ -30,3 +28,6 @@ GPT3 can answer complex questions by understanding the natural language used to 
 ### RESULTS
 
 ### VALIDATION
+
+
+> This material has been written with the help of GPT-3, and has been edited for relavancy and length. Hence, it might be possible to find traces of plagiarism.
